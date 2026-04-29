@@ -13,7 +13,7 @@ public class Reporte{
     public void mostrarSecciones(String... secciones){
         for (String s: secciones){
             System.out.println(s);
-        } if (secciones.legth == 0){
+        } if (secciones.length == 0){
             System.out.println("NO hay secciones");
         }
     }

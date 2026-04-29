@@ -3,7 +3,7 @@ public class App{
 
         Reporte reporte1 = new Reporte();
 
-        reporte1.mostrarSecciones(...secciones: "Lucia", "Agostina", "Lola");
+        reporte1.mostrarSecciones("Lucia", "Agostina", "Lola");
         reporte1.mostrarSecciones();
 
 
